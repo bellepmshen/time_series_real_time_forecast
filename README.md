@@ -7,7 +7,7 @@ Inside this repo, there are 2 files for obtaining the next minute forecast.
 
 ## instructions to get the forecast on the next minute:
 
-1. Download the 2 files, time_series.py and forecast_uni.ipynb and run them in the same directory
+1. Download the 2 files, time_series.py and forecast_uni.ipynb and run them in the same directory.
 2. Changing ticker symbol:
 
     Inside forecast_uni.ipynb, change the argument in the "get_data()" function.
